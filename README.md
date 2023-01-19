@@ -27,11 +27,9 @@
 
 ## Methodology:
 
-   &emsp; <p>First of all the chasis is built completely using PVC pipes.The dimensions of the sectioned PVC's are given below schematically.</p>
-   
-   
-   
-   
+   &emsp; <p>First of all the chasis is built completely using PVC pipes.The dimensions of the sectioned PVC's are given below schematically.</p><br />
+   <br />
+  
    ![image](https://user-images.githubusercontent.com/116140047/213357746-c82684be-3ba6-4b50-bcac-432d0d362b52.png)
    
    
