@@ -1,1 +1,1 @@
-I have created a Fire Fighting Robot, the mechanism used for locomotion is called Rocker-Bogie mechanism that are been used in designing Mars rovers.I have tried my level best to make it a multi-disciplinary project.
+I have created a Fire Fighting Robot, the mechanism used for locomotion is called Rocker-Bogie mechanism that are been used in designing Mars rovers.I have tried my level best to make it a multi-disciplinary project.![ff1](https://user-images.githubusercontent.com/116140047/213353197-d198677e-b121-4698-833e-03fe3c98ea4a.png)
