@@ -2,27 +2,30 @@ I have created a Fire Fighting Robot, the mechanism used for locomotion is calle
 
 Parts used:
 
-1.Arduino UNO 
+  1.Arduino UNO 
 
-2.L293D Motor driver 
-3.Lipo batteries 2200 MAH 
+  2.L293D Motor driver 
 
-4.12v geraed DC motors x 6 
+  3.Lipo batteries 2200 MAH 
 
-5.PVC pipes - 2 x 18 cm
-              4 x 14 cm
-              6 x 10 cm
-6.Micro Servo Motor SG90 
+  4.12v geared DC motors  x  6 
 
-7.Flame sensor 
+  5.PVC pipes - 2 x 18 cm,
+                4 x 14 cm,
+                6 x 10 cm
+              
+  6.Micro Servo Motor SG90 
 
-8.12v submersible DC pump 
+  7.Flame sensor 
 
-9.HC-05 Bluetooth Module 
+  8.12v submersible DC pump 
 
-10.Plastic wheels x 6 
+  9.HC-05 Bluetooth Module 
+
+  10.Plastic wheels  x  6 
 
 Methodology:
-First of all the chasis is built completely using PVC pipes. 
+
+  First of all the chasis is built completely using PVC pipes. 
 
 ![ff1](https://user-images.githubusercontent.com/116140047/213353197-d198677e-b121-4698-833e-03fe3c98ea4a.png)
