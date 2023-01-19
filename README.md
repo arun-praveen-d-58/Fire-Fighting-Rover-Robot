@@ -27,6 +27,6 @@ I have created a Fire Fighting Robot, the mechanism used for locomotion is calle
 
 ## Methodology:
 
-  First of all the chasis is built completely using PVC pipes. 
+   &emsp; First of all the chasis is built completely using PVC pipes. 
 
 ![ff1](https://user-images.githubusercontent.com/116140047/213353197-d198677e-b121-4698-833e-03fe3c98ea4a.png)
