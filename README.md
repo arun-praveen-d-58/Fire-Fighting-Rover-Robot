@@ -1,10 +1,10 @@
 I have created a Fire Fighting Robot, the mechanism used for locomotion is called Rocker-Bogie mechanism that are been used in designing Mars rovers.I have tried my level best to make it a multi-disciplinary project.Since this is just a prototype, it's a cost efficient one.
 
-Parts used:
+##Parts used:
 
-  1.Arduino UNO 
+  +Arduino UNO 
 
-  2.L293D Motor driver 
+  +L293D Motor driver 
 
   3.Lipo batteries 2200 MAH 
 
