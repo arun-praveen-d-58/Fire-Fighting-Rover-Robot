@@ -1,6 +1,7 @@
 I have created a Fire Fighting Robot, the mechanism used for locomotion is called Rocker-Bogie mechanism that are been used in designing Mars rovers.I have tried my level best to make it a multi-disciplinary project.Since this is just a prototype, it's a cost efficient one.
 
 Parts used:
+
 1.Arduino UNO - Arduino UNO is a microcontroller board based on the ATmega328P. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller.
 
 2.L293D Motor driver - The L293D IC receives signals from the microprocessor and transmits the relative signal to the motors. It has two voltage pins, one of which is used to draw current for the working of the L293D and the other is used to apply voltage to the motors.
