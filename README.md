@@ -45,6 +45,5 @@
    <br />
    ![WhatsApp Image 2022-11-22 at 13 58 48 (1)](https://user-images.githubusercontent.com/116140047/213364817-754c5f39-c3d7-4bcf-bc33-ea360661f731.jpeg)
 
-     &emsp; <p>The final prototype after assembling all the parts 👇</p> <br />
-       <br />
+ 
     ![ff4](https://user-images.githubusercontent.com/116140047/213379571-a64ed244-2ca7-4b62-a157-ff660b6cf930.png)
