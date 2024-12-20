@@ -1,5 +1,13 @@
 # Fire Fighting Rover Robot
- &emsp; I have created a Fire Fighting Robot, the mechanism used for locomotion is called Rocker-Bogie mechanism that are been used in designing Mars rovers.It can climb over the obstacles using this mechanism. I have tried my level best to make it a multi-disciplinary project. Since this is just a prototype, it's a cost efficient one. It uses Flame sensors to detect fire and uses water pump to spray water over fire prone areas.
+
+## Contributors:
+1.Naveen Kumar V <br>
+2.Sam Daniel M <br>
+3.Arun Praveen D <br>
+
+
+
+ &emsp; We have created a Fire Fighting Robot, the mechanism used for locomotion is called Rocker-Bogie mechanism that are been used in designing Mars rovers.It can climb over the obstacles using this mechanism. We have tried my level best to make it a multi-disciplinary project. Since this is just a prototype, it's a cost efficient one. It uses Flame sensors to detect fire and uses water pump to spray water over fire prone areas.
 
 ## Parts used:
 
@@ -46,7 +54,7 @@
  
 ![ff4](https://user-images.githubusercontent.com/116140047/213380302-00559f29-372a-440e-a944-0c9175ce5b3d.png)
 
-   &emsp; <p>I have built a mobile app using MIT App Inventor, by which the robot works automatically also can be controlled manually, to blow of the flame by spraying water, whenever the flame is detected. The UI of the app is shown below 👇</p> <br />
+   &emsp; <p>We have built a mobile app using MIT App Inventor, by which the robot works automatically also can be controlled manually, to blow of the flame by spraying water, whenever the flame is detected. The UI of the app is shown below 👇</p> <br />
    <br />
    ![ff3](https://user-images.githubusercontent.com/116140047/213382025-fc816efa-a82b-4b82-9d14-d5d1b87114f9.png)
 
